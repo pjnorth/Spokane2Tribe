@@ -12,5 +12,3 @@ plot(x, y, type = "b", main = "The Path of a Running Boy",
      col = "blue",
      pch = 0,
      cex = 1.5)
-     
-     
