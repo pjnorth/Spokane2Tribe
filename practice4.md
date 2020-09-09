@@ -14,4 +14,6 @@
 
 ![](four_yr_colls.png)
 
+![](doc_colls.png)
+
 09/08/2020:
