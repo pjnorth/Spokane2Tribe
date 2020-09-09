@@ -11,3 +11,9 @@
 ![](population.pdf)
 
 08/30/2020:
+
+![](four_yr_colls.png)
+
+![](doc_colls.png)
+
+09/08/2020:
