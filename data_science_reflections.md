@@ -7,6 +7,8 @@ My Data Science Reflection is investigating the analytics surrounding pacing str
 
 Results from twelve NCAA cross-country 10,000m national or regional races were analyzed by race pace as a percentage of two-kilometer pace. The runners from the twelve analyzed, high-level collegiate races were then divided up into five quintiles based on their finishing position in the race (first quintile = top finishers). Then, the final race pace divided by the opening two-kilometer pace created a percentage that could numerically demonstrate how the runners of each quintile adjusted their pace from their opening split. Based on the data, it was very clear that those who slowed the least were the top runners. That’s a very simple concept to understand, but the article’s data really illustrated how much of an impact it can have on finishing time.
 
+On the track & field side of things, predictive analytics is beginning to see use to predict the finshing place of runners based on their split times. These predictive models are more accurate than seed-time or any other predictor. I believe that technology could be created to predict a runner's finishing time and place live based on how their pace has advanced through a race.
+
 ![](dsr_1.jpg)
 
 ![](dsr_2.jpg)
