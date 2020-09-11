@@ -1,7 +1,5 @@
 # Data Science Reflections
 
-http://www.ustfccca.org/2017/08/featured/pacing-strategy-can-analytics-help-us-run-faster-in-cross-country
-
 09/08/2020:
 My Data Science Reflection is investigating the analytics surrounding pacing strategies in high-level collegiate cross-country races and how these strategies could affect overall finishing time. There is a very strong relationship between pacing strategy and finishing time, but the article I based my reflection on proves that, typically, the runners in these high-level collegiate cross-country races tend not to follow the best pacing strategies. Running more evenly paced results in faster racing times, yet it most common that these runners start out faster than their finishing pace. 
 
@@ -14,3 +12,5 @@ On the track & field side of things, predictive analytics is beginning to see us
 ![](dsr_2.jpg)
 
 ![](dsr_3.jpg)
+
+Lane, S. (2017, August 17). Pacing Strategy: Can Analytics Help Us Run Faster in Cross Country? Retrieved September 11, 2020, from http://www.ustfccca.org/2017/08/featured/pacing-strategy-can-analytics-help-us-run-faster-in-cross-country
