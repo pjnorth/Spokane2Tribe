@@ -1,5 +1,7 @@
 # Data Science Reflections
 
+![](Data_Science_Reflections_One.jpg)
+
 09/08/2020:
 My Data Science Reflection is investigating the analytics surrounding pacing strategies in high-level collegiate cross-country races and how these strategies could affect overall finishing time. There is a very strong relationship between pacing strategy and finishing time, but the article I based my reflection on proves that, typically, the runners in these high-level collegiate cross-country races tend not to follow the best pacing strategies. Running more evenly paced results in faster racing times, yet it most common that these runners start out faster than their finishing pace. 
 
