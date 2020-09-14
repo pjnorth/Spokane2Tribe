@@ -4,7 +4,7 @@
 
 [Creating a More Complicated Plot](practice2.md) (08/24/2020)
 
-[Challenge Question](practice3.md) (08/27/2020)
+[CaMCP - Challenge Question](practice3.md) (08/27/2020)
 
 [Lab One - Parts 1 + 2](practice4.md) (09/13/2020)
 
