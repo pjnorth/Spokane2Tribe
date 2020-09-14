@@ -2,7 +2,7 @@
 
 PART ONE:
 
-  data_mgt_pt1:
+  >data_mgt_pt1:
   
 ![](difference_of_total_population.png)
 
@@ -16,7 +16,7 @@ PART ONE:
 
 08/30/2020:
 
-  data_mgt_pt2:
+  >data_mgt_pt2:
 
 ![](four_yr_colls.png)
 
@@ -26,6 +26,6 @@ PART ONE:
 
 PART TWO:
 
-  fundamentals_pt1
+  >fundamentals_pt1
   
 ![](lab1_part2_deliverable.png)
