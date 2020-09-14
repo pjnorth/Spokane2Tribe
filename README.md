@@ -15,3 +15,5 @@ Hey there! My name is Patrick North and I'm from the beautiful city of Spokane, 
 ![](commitment_post.JPG)
 
 ![](bridge_pic.JPG)
+
+^A photograph of Spokane I took!
