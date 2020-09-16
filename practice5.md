@@ -12,7 +12,7 @@ PART ONE:
 
 PART TWO:
 
-  >fundamentals_pt1
+  >fundamentals_pt1:
   
 ![](lab1_part2_deliverable.png)
 
