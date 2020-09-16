@@ -1,8 +1,8 @@
 # spokane2tribe index
 
-[Creating and Plotting Objects](practice1.md)
+[Creating and Plotting Objects](practice1.md) (08/21/2020)
 
-[Creating a More Complicated Plot](practice2.md)
+[Creating a More Complicated Plot](practice2.md) (08/24/2020)
 
 [CaMCP - Challenge Question](practice3.md)
 
