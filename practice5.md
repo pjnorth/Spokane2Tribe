@@ -2,8 +2,6 @@
 
 PART ONE:
 
-  >data_mgt_pt2:
-
 ![](four_yr_colls.png)
 
 ![](doc_colls.png)
@@ -11,8 +9,6 @@ PART ONE:
 09/08/2020: Okay, this second section of part one of this lab was a lot more difficult (as shown by the much more complicated plot). There were a lot more figure-out-the-variable pieces to these instructions and I honestly don't know how I would've figured it out without Professor Frazier being generous enough to take the time to help on friday night. For me, sometimes the difficult part is just figuring out what variables/commands it says you have to create yourself and which are the actual code you use. However, I feel good having made it through this tougher part (even with lots of help) and I think having this lab to look back to should help in the future if I encounter another similarly-difficult bar plot lab.
 
 PART TWO:
-
-  >fundamentals_pt1:
   
 ![](lab1_part2_deliverable.png)
 
