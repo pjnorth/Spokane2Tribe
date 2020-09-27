@@ -10,4 +10,6 @@ PART ONE:
 
 PART TWO:
 
-![]
+![](lab2_part2_deliverable_1.png)
+
+![](lab2_part2_deliverable2)
