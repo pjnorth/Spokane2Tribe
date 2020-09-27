@@ -12,7 +12,7 @@
 
 [Data Science Reflections One](data_science_reflections.md) (09/11/2020)
 
-[Lab Two - Part One](practice6.md) (09/14/2020)
+[Lab Two - Part One and Two](practice6.md) (09/14/2020)
 
 [Data Science Reflections Two](data_science_reflections2.md) (09/25/2020)
 
