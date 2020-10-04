@@ -20,4 +20,4 @@ PART TWO:
 
 ![](lab2_part3_deliverable2.png)
 
-10/04/2020: 
+10/04/2020: This part was a bit tougher since we had to figure out our own variables / functions more often, but I got some help from my peers from seeing their work. It was also a bit awkward trying to find my maximum profit, because all of my stocks started either at 0% or below and it was basically just a matter of putting the weight of investment between two stocks that both rose up to a 7.5% profit by the end of the two years. No matter how I split the weight, there was very little difference besides ending a bit higher on one or starting a bit higher on the other. However, I looked for where the line crossed over into the positive profit sooner as another indicator and that's how I got my two plots.
