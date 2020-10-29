@@ -7,3 +7,7 @@
 ![](lao_pop20_two.png)
 
 ![](laos.gif)
+
+![](laos1.png)
+
+![](lao_adm2_bp.png)
