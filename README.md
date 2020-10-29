@@ -22,6 +22,8 @@
 
 [Lab Four - Parts One, Two](practice8.md) (10/26/2020)
 
+[Data Science Reflections Four](data_science_reflections4.md) (10/28/2020)
+
 Hey there! My name is Patrick North and I'm from the beautiful city of Spokane, Washington. I am a freshman at the College of William & Mary and I'm excited to start this new chapter in my life! I'm interested in statistics/data science/business analytics and I'll be running Cross Country and Track & Field for the Tribe. This GitHub depository is for my DATA 100: Wicked Problems class. I look forward to exploring Data Science!
 
 ![](commitment_post.JPG)
