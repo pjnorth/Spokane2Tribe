@@ -18,6 +18,8 @@ This fourth deliverable is a three dimensional GIF of the third deliverable of t
 
 ![](laos1.png)
 
-
+Part two of this project involved bar plots and this first deliverable is a combination of a typical plot and a bar plot. The plot of Laos is of the country's counties with each county's respective population density (# of persons per km^2) listed under the county name. Again, there is a gradiant scale to explain the number of individuals within the county. On the right side, there is a bar plot that displays the population size of each county with the percentage that communicates that county's share of Laos' total population. Very cool to produce such a descriptive plot and bar plot side-by-side!
 
 ![](lao_adm2_bp.png)
+
+
