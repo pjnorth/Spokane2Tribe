@@ -22,4 +22,4 @@ Part two of this project involved bar plots and this first deliverable is a comb
 
 ![](lao_adm2_bp.png)
 
-
+This final deliverable is a barplot of each county divided into its subdivisions. The y-axis is labeled with the county name's and the x-axis is the population size. The lines stretch out from the y-axis and the total length is the county's population, but the length of the lines is divided into segments that correspond to that county's subdivisions. The length of these segments display the population of the subdivisions. This barplot was pretty similar to the previous one (besides dividing the county lines into their subdivisions), so it wasn't too difficult (I think I ran into one issue with my adm2 data)!
