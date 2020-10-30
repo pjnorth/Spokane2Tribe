@@ -1,5 +1,7 @@
 # Lab Four - Parts One, Two
 
+  PART ONE
+
 ![](lao_pop20.png)
 
 This plot is of Laos divided into counties. There is a color gradiant to display the number of individuals within each county. This plot was pretty easy to produce! I'm a big fan of these colorful, descriptive plots.
@@ -15,6 +17,8 @@ This third plot is basically a combination of deliverables one & two with a slig
 ![](laos.gif)
 
 This fourth deliverable is a three dimensional GIF of the third deliverable of this project. At first, it only produced a three dimensional picture I could rotate, but with some more code I was able to create a mp4 movie out of it and then ultimately convert it into a GIF. Besides figuring out the code I needed, this part wasn't very difficult at all so I'll definitely take advantage of this trick in the future if I would ever benefit from a three dimensional model!
+
+  PART TWO
 
 ![](laos1.png)
 
