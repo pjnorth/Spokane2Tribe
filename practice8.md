@@ -6,9 +6,11 @@ This plot is of Laos divided into counties. There is a color gradiant to display
 
 ![](lao_pop20_adm2.png)
 
-This plot very similar to the first, however, Laos is divided into its subdivisions. 
+This plot very similar to the first, however, Laos is divided into its subdivisions. The same color gradiant is applied, but the scale is much smaller since there would obviously be less individuals occupying a more-divided area. Similar to the first plot, I had no issues here!
 
 ![](lao_pop20_two.png)
+
+This third plot is basically a combination of deliverables one & two with a slighly more complex scale and legend.
 
 ![](laos.gif)
 
